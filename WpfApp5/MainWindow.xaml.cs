@@ -20,8 +20,6 @@ namespace WpfApp5
     /// </summary>
     public partial class MainWindow : Window
     {
-        private System.Windows.Forms.NotifyIcon m_notifyIcon;
-
         public MainWindow()
         {
             InitializeComponent();
